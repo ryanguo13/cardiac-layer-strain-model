@@ -1,0 +1,12 @@
+# Local setup and generated Julia/editor files
+install.log
+.DS_Store
+.vscode/
+.idea/
+
+# Julia scratch files
+*.jl.cov
+*.jl.mem
+*.ji
+Manifest-v*.toml
+
